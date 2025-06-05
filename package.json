@@ -1,0 +1,14 @@
+{
+  "name": "random-chat-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^4.21.2",
+    "ipinfo": "^1.5.2",
+    "socket.io": "^4.8.1"
+  }
+}

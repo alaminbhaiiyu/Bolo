@@ -1,0 +1,8 @@
+
+/* public/style.css */
+/* Add any custom CSS here if not using Tailwind's full build process */
+/* Tailwind will automatically include its base, components, and utilities */
+/* If you want to use a specific font, you can import it here */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
